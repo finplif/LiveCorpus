@@ -1,0 +1,681 @@
+# time_begin = 3:33
+
+olv@
+
+# sent_id = 3
+# text = по жизни?
+1	по	по	ADP	_	_	_	_	_	_
+2	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 5
+# text = по жизни я / учу
+1	по	по	ADP	_	_	_	_	_	_
+2	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	учу	учить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 7
+# text = учу детей / и / учила в школе когда работала / и потом когда вышла на пенсию я продолжаю учить / математике / занимаюсь репетиторством с учениками-старшеклассниками
+1	учу	учить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	детей	ребенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	и	и	CCONJ	_	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	учила	учить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	в	в	ADP	_	_	_	_	_	_
+8	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+9	когда	когда	SCONJ	_	_	_	_	_	_
+10	работала	работать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+14	когда	когда	ADV	_	Degree=Pos	_	_	_	_
+15	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	на	на	ADP	_	_	_	_	_	_
+17	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+19	продолжаю	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+20	учить	учить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	математике	математика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	занимаюсь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+25	репетиторством	репетиторство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+26	с	с	ADP	_	_	_	_	_	_
+27	учениками	ученик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+28	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+29	старшеклассниками	старшеклассник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+lpe@
+
+# sent_id = 9
+# text = а чем вам всегда помимо вашего основного занятия нравилось заниматься?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	чем	что	PRON	_	Case=Ins	_	_	_	_
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	_
+4	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+5	помимо	помимо	ADP	_	_	_	_	_	_
+6	вашего	ваш	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	основного	основной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+8	занятия	занятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+9	нравилось	нравиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+10	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	SpaceAfter=No
+11	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 11
+# text = чем мне заниматься нравилосьхххх?
+1	чем	что	PRON	_	Case=Ins	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+4	нравилосьхххх	нравитьсяххх	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 13
+# text = читать книги / очень любила / ааах но в то время / многие читали / ночью и днем / и под одеялом / и на уроке / прикрыв учебником
+1	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+2	книги	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+5	любила	любить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	ааах	ааах	INTJ	_	_	_	_	_	_
+8	но	но	CCONJ	_	_	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+11	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	многие	много	NUM	_	_	_	_	_	_
+14	читали	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+17	и	и	CCONJ	_	_	_	_	_	_
+18	днем	день	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	и	и	CCONJ	_	_	_	_	_	_
+21	под	под	ADP	_	_	_	_	_	_
+22	одеялом	одеяло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	и	и	CCONJ	_	_	_	_	_	_
+25	на	на	ADP	_	_	_	_	_	_
+26	уроке	урок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+27	/	/	PUNCT	_	_	_	_	_	_
+28	прикрыв	прикрыть	GER	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	_	_	_	_
+29	учебником	учебник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 15
+# text = потом / очень люблю заниматься спортом / подвижным / прогулки / купание в море море очень люблю / люблю путешествовать
+1	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+4	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+6	спортом	спорт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	подвижным	подвижный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	прогулки	прогулка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	купание	купание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	море	море	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+15	море	море	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+16	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+17	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+20	путешествовать	путешествовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+lpe@
+
+# sent_id = 17
+# text = чего вы боитесь?
+1	чего	что	PRON	_	Case=Gen	_	_	_	_
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+3	боитесь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 19
+# text = боются...
+1	боются	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 21
+# text = боюсь потерять близких / дочерей внуков
+1	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+2	потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+3	близких	близкий	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	дочерей	дочь	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+6	внуков	внук	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 23
+# text = эээ не хочу остаться одна хочу быть в окружении / своих близких любимых
+1	эээ	эээ	INTJ	_	_	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	остаться	остаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+5	одна	один	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+6	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+7	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+8	в	в	ADP	_	_	_	_	_	_
+9	окружении	окружение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	своих	свой	DET	_	Case=Gen|Number=Plur	_	_	_	_
+12	близких	близкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+13	любимых	любимый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+lpe@
+
+# sent_id = 25
+# text = ваше любимое блюдо?
+1	ваше	ваш	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	любимое	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	блюдо	блюдо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 27
+# text = моё любимое блюдо?
+1	моё	мой	DET	_	_	_	_	_	_
+2	любимое	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	блюдо	блюдо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 29
+# text = наверное жареная картошка / ну ещё пельмени
+1	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+2	жареная	жареный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+3	картошка	картошка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	ну	ну	PART	_	_	_	_	_	_
+6	ещё	еще	ADV	_	Degree=Pos	_	_	_	_
+7	пельмени	пельмень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+lpe@
+
+# sent_id = 31
+# text = ааам / вы сказали что вам нравилось / и нравится читать книги / почему?
+1	ааам	ааам	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+4	сказали	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	что	что	SCONJ	_	_	_	_	_	_
+6	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	_
+7	нравилось	нравиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	и	и	CCONJ	_	_	_	_	_	_
+10	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+12	книги	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	почему	почему	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+15	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 33
+# text = ну / книги / читать книги / это / вот сейчас я / понимаю
+1	ну	ну	PART	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	книги	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+6	книги	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	это	этот	DET	_	_	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	вот	вот	PART	_	_	_	_	_	_
+11	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 35
+# text = что книга / чтение книги развивает человека развивает его личность фантазию / эээ всё что я читала я зримо представляла / когда смотришь фильм / то тебе / подают ээ видение автора режиссёра / картины а здесь ты сама режиссёр / ты сама эмм строишь что ли вот / ту...
+1	что	что	SCONJ	_	_	_	_	_	_
+2	книга	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	чтение	чтение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+5	книги	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+6	развивает	развивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+7	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+8	развивает	развивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	его	его	DET	_	_	_	_	_	_
+10	личность	личность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+11	фантазию	фантазия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	эээ	эээ	INTJ	_	_	_	_	_	_
+14	всё	все	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+15	что	что	PRON	_	Case=Acc	_	_	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+17	читала	читать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+19	зримо	зримо	ADV	_	Degree=Pos	_	_	_	_
+20	представляла	представлять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	когда	когда	SCONJ	_	_	_	_	_	_
+23	смотришь	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+24	фильм	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	то	то	SCONJ	_	_	_	_	_	_
+27	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	подают	подавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+30	ээ	ээ	INTJ	_	_	_	_	_	_
+31	видение	видение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+32	автора	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+33	режиссёра	режиссер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+34	/	/	PUNCT	_	_	_	_	_	_
+35	картины	картина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+36	а	а	CCONJ	_	_	_	_	_	_
+37	здесь	здесь	ADV	_	Degree=Pos	_	_	_	_
+38	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+39	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+40	режиссёр	режиссёр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+41	/	/	PUNCT	_	_	_	_	_	_
+42	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+43	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+44	эмм	эмм	INTJ	_	_	_	_	_	_
+45	строишь	строить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+46	что	что	PRON	_	Case=Acc	_	_	_	_
+47	ли	ли	PART	_	_	_	_	_	_
+48	вот	вот	PART	_	_	_	_	_	_
+49	/	/	PUNCT	_	_	_	_	_	_
+50	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+53	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 37
+# text = тот мир / о котором ты читаешь / читать книгу это необыкновенно интересно
+1	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+2	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	о	о	ADP	_	_	_	_	_	_
+5	котором	который	PRON	_	Case=Loc	_	_	_	_
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+7	читаешь	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+10	книгу	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+11	это	этот	DET	_	_	_	_	_	_
+12	необыкновенно	необыкновенно	ADV	_	Degree=Pos	_	_	_	_
+13	интересно	интересный	PRAEDIC	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\n\n
+
+lpe@
+
+# sent_id = 39
+# text = какой ваш любимый автор?
+1	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	любимый	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 41
+# text = любимый автор?
+1	любимый	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 43
+# text = любимый автор / скорее всего Пушкин / ээ с детства эндто осталось Пушкин Лермонтов / просто легко доступно очень мило и / созвучно душе
+1	любимый	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	скорее	скорее	ADV	_	Degree=Pos	_	_	_	_
+5	всего	все	PRON	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+6	Пушкин	Пушкин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	ээ	ээ	INTJ	_	_	_	_	_	_
+9	с	с	ADP	_	_	_	_	_	_
+10	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+11	эндто	это	DET	_	_	_	_	_	_
+12	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+13	Пушкин	Пушкин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	Лермонтов	Лермонтов	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	просто	просто	PRAEDIC	_	Degree=Pos	_	_	_	_
+17	легко	легко	PRAEDIC	_	Degree=Pos	_	_	_	_
+18	доступно	доступно	PRAEDIC	_	Degree=Pos	_	_	_	_
+19	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+20	мило	мило	PRAEDIC	_	Degree=Pos	_	_	_	_
+21	и	и	CCONJ	_	_	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	созвучно	созвучно	PRAEDIC	_	Degree=Pos	_	_	_	_
+24	душе	душа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+
+lpe@
+
+# sent_id = 45
+# text = какое время года вам больше нравится?
+1	какое	какой	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+3	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	_
+5	больше	больше	ADV	_	Degree=Cmp	_	_	_	_
+6	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 47
+# text = весна
+1	весна	весна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 49
+# text = весна / потому что / все возрождается вновь
+1	весна	весна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+4	что	что	SCONJ	_	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+7	возрождается	возрождаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	вновь	вновь	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 51
+# text = свежо / зелено / жизнь начинается сначала / ну поскольку мой возраст уже достаточно большой поэтому / мечта конечно / возродиться где ты так в юном возрасте и начать жизнь сначала
+1	свежо	свежо	PRAEDIC	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	зелено	зелено	PRAEDIC	_	Degree=Pos	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+7	сначала	сначала	ADV	_	Degree=Pos	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	ну	ну	PART	_	_	_	_	_	_
+10	поскольку	поскольку	SCONJ	_	_	_	_	_	_
+11	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+12	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+13	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+14	достаточно	достаточно	ADV	_	Degree=Pos	_	_	_	_
+15	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	мечта	мечта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+19	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	возродиться	возродиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+22	где	где	ADV	_	Degree=Pos	_	_	_	_
+23	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+24	так	так	ADV	_	Degree=Pos	_	_	_	_
+25	в	в	ADP	_	_	_	_	_	_
+26	юном	юный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+27	возрасте	возраст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+28	и	и	CCONJ	_	_	_	_	_	_
+29	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+30	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+31	сначала	сначала	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 53
+# text = ну может быть и так продолжать но тем не менее / весной / и себя ощущаешь / молодой
+1	ну	ну	PART	_	_	_	_	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+4	и	и	PART	_	_	_	_	_	_
+5	так	так	ADV	_	Degree=Pos	_	_	_	_
+6	продолжать	продолжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+7	но	но	CCONJ	_	_	_	_	_	_
+8	тем	тот	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+9	не	не	PART	_	Polarity=Neg	_	_	_	_
+10	менее	менее	ADV	_	Degree=Cmp	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	весной	весна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	и	и	CCONJ	_	_	_	_	_	_
+15	себя	себя	PRON	_	Case=Acc	_	_	_	_
+16	ощущаешь	ощущать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	молодой	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+# time_begin = 8:10
+
+lpe@
+
+# sent_id = 56
+# text = ааа расскажите про своих дочерей
+1	ааа	аа	INTJ	_	_	_	_	_	_
+2	расскажите	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+3	про	про	ADP	_	_	_	_	_	_
+4	своих	свой	DET	_	Case=Gen|Number=Plur	_	_	_	_
+5	дочерей	дочь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 58
+# text = ну у меня две прекрасные дочери которыми я горжусь / я горжусь тем что они очень умны / они / эээ самодостаточны / они эмоциональны
+1	ну	ну	PART	_	_	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+4	две	два	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+5	прекрасные	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+6	дочери	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	которыми	который	PRON	_	Case=Ins	_	_	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+9	горжусь	гордиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	горжусь	гордиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+13	тем	тот	PRON	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+14	что	что	SCONJ	_	_	_	_	_	_
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+16	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+17	умны	умный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	эээ	эээ	INTJ	_	_	_	_	_	_
+22	самодостаточны	самодостаточный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+25	эмоциональны	эмоциональный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 60
+# text = они любят жизнь и жизнь их любит / они ээээ ну выросли достойными людьми / красивые очень / очень красивые / поэтому я люблю их ну люблю просто потому что они мои дети
+1	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+2	любят	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+4	и	и	CCONJ	_	_	_	_	_	_
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+7	любит	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+10	ээээ	ээээ	INTJ	_	_	_	_	_	_
+11	ну	ну	PART	_	_	_	_	_	_
+12	выросли	вырасти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	достойными	достойный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+14	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	красивые	красивый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+17	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+20	красивые	красивый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+23	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+24	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+25	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+26	ну	ну	PART	_	_	_	_	_	_
+27	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+28	просто	просто	PART	_	_	_	_	_	_
+29	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+30	что	что	SCONJ	_	_	_	_	_	_
+31	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+32	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+33	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+lpe@
+
+# sent_id = 62
+# text = расскажите ещё про остальных членов вашей семьи
+1	расскажите	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+2	ещё	еще	ADV	_	Degree=Pos	_	_	_	_
+3	про	про	ADP	_	_	_	_	_	_
+4	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+5	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+6	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+7	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+olv@
+
+# sent_id = 64
+# text = остальные члены моей семьи ну так сложилось что муж у меня умер совсем недавно поэтому / наверное про умерших уже не нужно рассказывать а остальные у меня внуки / внучка Людочка / которая берёт у меня интервью / и внук Матвей / аа ну поскольку у них родители очень умные поэтому и они тоже умные / очень красивые / ммм аав очень / любознательные / самое прекрасное что / они / ээ на все имеют своё собственное мнение / они пытаются понять мир в котором они живут / и понять / и принять его таким какой он есть и может быть и изменить его / в какой-то степени / сделать лучше / у меня замечательные внуки
+1	остальные	остальной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+2	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+3	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+4	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+5	ну	ну	PART	_	_	_	_	_	_
+6	так	так	ADV	_	Degree=Pos	_	_	_	_
+7	сложилось	сложиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	что	что	SCONJ	_	_	_	_	_	_
+9	муж	муж	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+10	у	у	ADP	_	_	_	_	_	_
+11	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+12	умер	умереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	совсем	совсем	ADV	_	Degree=Pos	_	_	_	_
+14	недавно	недавно	ADV	_	Degree=Pos	_	_	_	_
+15	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	наверное	наверное	PART	_	_	_	_	_	_
+18	про	про	ADP	_	_	_	_	_	_
+19	умерших	умереть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	_
+20	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+21	не	не	PART	_	_	_	_	_	_
+22	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+23	рассказывать	рассказывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+24	а	а	CCONJ	_	_	_	_	_	_
+25	остальные	остальной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+26	у	у	ADP	_	_	_	_	_	_
+27	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+28	внуки	внук	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	внучка	внучка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+31	Людочка	Людочка	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+32	/	/	PUNCT	_	_	_	_	_	_
+33	которая	который	PRON	_	Case=Nom	_	_	_	_
+34	берёт	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+35	у	у	ADP	_	_	_	_	_	_
+36	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+37	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+38	/	/	PUNCT	_	_	_	_	_	_
+39	и	и	CCONJ	_	_	_	_	_	_
+40	внук	внук	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+41	Матвей	Матвей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	аа	а	INTJ	_	_	_	_	_	_
+44	ну	ну	PART	_	_	_	_	_	_
+45	поскольку	поскольку	SCONJ	_	_	_	_	_	_
+46	у	у	ADP	_	_	_	_	_	_
+47	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+48	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+49	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+50	умные	умный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+51	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+52	и	и	CCONJ	_	_	_	_	_	_
+53	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+54	тоже	тоже	PART	_	_	_	_	_	_
+55	умные	умный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+56	/	/	PUNCT	_	_	_	_	_	_
+57	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+58	красивые	красивый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+59	/	/	PUNCT	_	_	_	_	_	_
+60	ммм	мм	INTJ	_	_	_	_	_	_
+61	аав	аав	INTJ	_	_	_	_	_	_
+62	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+63	/	/	PUNCT	_	_	_	_	_	_
+64	любознательные	любознательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+65	/	/	PUNCT	_	_	_	_	_	_
+66	самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+67	прекрасное	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+68	что	что	PRON	_	Case=Nom	_	_	_	_
+69	/	/	PUNCT	_	_	_	_	_	_
+70	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+71	/	/	PUNCT	_	_	_	_	_	_
+72	ээ	ээ	INTJ	_	_	_	_	_	_
+73	на	на	ADP	_	_	_	_	_	_
+74	все	все	PRON	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
+75	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+76	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+77	собственное	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+78	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+79	/	/	PUNCT	_	_	_	_	_	_
+80	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+81	пытаются	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+82	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+83	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+84	в	в	ADP	_	_	_	_	_	_
+85	котором	который	PRON	_	Case=Loc	_	_	_	_
+86	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+87	живут	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+88	/	/	PUNCT	_	_	_	_	_	_
+89	и	и	CCONJ	_	_	_	_	_	_
+90	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+91	/	/	PUNCT	_	_	_	_	_	_
+92	и	и	CCONJ	_	_	_	_	_	_
+93	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+94	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+95	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+96	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+97	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+98	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+99	и	и	CCONJ	_	_	_	_	_	_
+100	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+101	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+102	и	и	PART	_	_	_	_	_	_
+103	изменить	изменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+104	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+105	/	/	PUNCT	_	_	_	_	_	_
+106	в	в	ADP	_	_	_	_	_	_
+107	какой-то	какой-то	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+108	степени	степень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+109	/	/	PUNCT	_	_	_	_	_	_
+110	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+111	лучше	хорошо	ADV	_	Degree=Cmp	_	_	_	_
+112	/	/	PUNCT	_	_	_	_	_	_
+113	у	у	ADP	_	_	_	_	_	_
+114	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+115	замечательные	замечательный	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+116	внуки	внук	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+
